@@ -1,0 +1,7 @@
+selenium
+python-dotenv
+pytz
+django
+psycopg2
+whitenoise
+pycrypto
